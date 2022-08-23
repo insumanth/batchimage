@@ -25,7 +25,7 @@ A Python Package for Fast Parallel Processing of Images. It's Simple, easy and e
 ------------------
 ## Python Package Index Install 
 
-```bash
+```
 pip install batchimage
 ```
 
