@@ -3,6 +3,10 @@
 
 .idea
 
+batchimage/ToDo
+batchimage/rough.py
+batchimage/workout.ipynb
+
 dist/*
 
 batchimage/.pytest_cache
